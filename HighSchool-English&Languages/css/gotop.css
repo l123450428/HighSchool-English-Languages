@@ -1,0 +1,40 @@
+.gotop {
+	position: fixed;
+	bottom: 200px;
+	right: 0;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #FFF;
+	cursor: pointer;
+	z-index: 777;
+	align-content: 50% 0 0 50%;
+	transition: all .3s ease;
+	overflow: hidden;
+	font-size: 20px;
+	background-color: #A1A1A1;
+}
+
+@media screen and (max-width:768px){
+.gotop {
+	position: fixed;
+	bottom: 20vw;
+	right: 0;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	line-height: 40px;
+	color: #FFF;
+	cursor: pointer;
+	z-index: 777;
+	align-content: 50% 0 0 50%;
+	transition: all .3s ease;
+	overflow: hidden;
+	font-size: 20px;
+	background-color: #A1A1A1;
+}
+
+
+
+}
